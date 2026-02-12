@@ -1,0 +1,3575 @@
+[
+  {
+    "name": "Alpaca",
+    "host": "api.alpaca.markets",
+    "category": "Quant APIs",
+    "hop_count": 4,
+    "total_rtt": 13.828,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 8.364,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "121.23.221.35.bc.googleusercontent.com",
+        "ip": "35.221.23.121",
+        "rtt_ms": 13.828,
+        "geo": {
+          "lat": 38.9071,
+          "lon": -77.0368,
+          "city": "Washington",
+          "region": "Washington, D.C.",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Alpha Vantage",
+    "host": "www.alphavantage.co",
+    "category": "Quant APIs",
+    "hop_count": 6,
+    "total_rtt": 14.599,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 14.575,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 15.633,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.17",
+        "ip": "172.68.52.17",
+        "rtt_ms": 14.87,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "172.66.170.11",
+        "ip": "172.66.170.11",
+        "rtt_ms": 14.599,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "IEX Cloud",
+    "host": "cloud.iexapis.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 8.947,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.106.146",
+        "rtt_ms": 10.792,
+        "geo": {
+          "lat": 40.7357,
+          "lon": -74.1724,
+          "city": "Newark",
+          "region": "New Jersey",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Intrinio",
+    "host": "api-v2.intrinio.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 12.452,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Nasdaq Data Link",
+    "host": "data.nasdaq.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 8.419,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "nyk-bb5-link.ip.twelve99.net",
+        "ip": "62.115.135.160",
+        "rtt_ms": 11.341,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 7,
+        "host": "ewr-b3-link.ip.twelve99.net",
+        "ip": "62.115.140.191",
+        "rtt_ms": 7.017,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 8,
+        "host": "imperva-ic-375269.ip.twelve99-cust.net",
+        "ip": "62.115.13.253",
+        "rtt_ms": 8.683,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 9,
+        "host": "131.125.129.81",
+        "ip": "131.125.129.81",
+        "rtt_ms": 8.819,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Polygon.io",
+    "host": "api.polygon.io",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 9.931,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.158.58",
+        "rtt_ms": 10.273,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "ae0.cr4-nyc12.ip4.gtt.net",
+        "ip": "89.149.142.250",
+        "rtt_ms": 9.227,
+        "geo": {
+          "lat": 52.3676,
+          "lon": 4.90414,
+          "city": "Amsterdam",
+          "region": "North Holland",
+          "country": "The Netherlands",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 7,
+        "host": "ip4.gtt.net",
+        "ip": "63.141.204.58",
+        "rtt_ms": 7.656,
+        "geo": {
+          "lat": 33.848,
+          "lon": -118.355,
+          "city": "Torrance",
+          "region": "California",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "QuantConnect",
+    "host": "www.quantconnect.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 11.344,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "nyk-b17-link.ip.twelve99.net",
+        "ip": "62.115.137.15",
+        "rtt_ms": 12.246,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 8,
+        "host": "ovh-ic-395638.ip.twelve99-cust.net",
+        "ip": "62.115.162.249",
+        "rtt_ms": 9.906,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Tiingo",
+    "host": "api.tiingo.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 8.343,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "ewr-bb2-link.ip.twelve99.net",
+        "ip": "62.115.135.162",
+        "rtt_ms": 11.836,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 7,
+        "host": "ewr-b7-link.ip.twelve99.net",
+        "ip": "62.115.141.145",
+        "rtt_ms": 11.083,
+        "geo": {
+          "lat": 51.5072,
+          "lon": -0.127586,
+          "city": "London",
+          "region": "England",
+          "country": "United Kingdom",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 8,
+        "host": "equinix-ic-379729.ip.twelve99-cust.net",
+        "ip": "213.248.85.145",
+        "rtt_ms": 7.892,
+        "geo": {
+          "lat": 59.3689,
+          "lon": 18.0084,
+          "city": "Solna",
+          "region": "Stockholm County",
+          "country": "Sweden",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "51.163.139.55",
+        "ip": "51.163.139.55",
+        "rtt_ms": 12.513,
+        "geo": {
+          "lat": 51.4998,
+          "lon": -0.011072,
+          "city": "City of London",
+          "region": "England",
+          "country": "United Kingdom",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Tradier",
+    "host": "api.tradier.com",
+    "category": "Quant APIs",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 10.631,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Twelve Data",
+    "host": "api.twelvedata.com",
+    "category": "Quant APIs",
+    "hop_count": 6,
+    "total_rtt": 12.218,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 9.935,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 13.271,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.21",
+        "ip": "172.68.52.21",
+        "rtt_ms": 13.307,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.26.13.157",
+        "ip": "104.26.13.157",
+        "rtt_ms": 12.218,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "AWS",
+    "host": "aws.amazon.com",
+    "category": "Cloud Providers",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 13.457,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "15.230.254.1",
+        "ip": "15.230.254.1",
+        "rtt_ms": 9.528,
+        "geo": {
+          "lat": 39.0438,
+          "lon": -77.4874,
+          "city": "Ashburn",
+          "region": "Virginia",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Azure",
+    "host": "azure.microsoft.com",
+    "category": "Cloud Providers",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 12.612,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae1.gw16.nyc1.alter.net",
+        "ip": "140.222.227.35",
+        "rtt_ms": 9.243,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 7.939,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "192.168.224.5",
+        "ip": "192.168.224.5",
+        "rtt_ms": 10.062,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "192.168.237.15",
+        "ip": "192.168.237.15",
+        "rtt_ms": 7.663,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "192.168.244.147",
+        "ip": "192.168.244.147",
+        "rtt_ms": 7.35,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Cloudflare",
+    "host": "www.cloudflare.com",
+    "category": "Cloud Providers",
+    "hop_count": 6,
+    "total_rtt": 13.647,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 16.655,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 17.128,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.21",
+        "ip": "172.68.52.21",
+        "rtt_ms": 17.229,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.16.123.96",
+        "ip": "104.16.123.96",
+        "rtt_ms": 13.647,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "DigitalOcean",
+    "host": "www.digitalocean.com",
+    "category": "Cloud Providers",
+    "hop_count": 6,
+    "total_rtt": 13.485,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 16.476,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "lag-1.bstpmall-ppr01-cc.vzbi.com",
+        "ip": "140.222.9.223",
+        "rtt_ms": 15.908,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.15",
+        "ip": "172.68.52.15",
+        "rtt_ms": 23.89,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.19.173.68",
+        "ip": "104.19.173.68",
+        "rtt_ms": 13.485,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Google Cloud",
+    "host": "cloud.google.com",
+    "category": "Cloud Providers",
+    "hop_count": 8,
+    "total_rtt": 13.328,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 16.025,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "63.125.121.2",
+        "rtt_ms": 15.044,
+        "geo": {
+          "lat": 40.7053,
+          "lon": -74.0866,
+          "city": "Jersey City",
+          "region": "New Jersey",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "142.251.65.112",
+        "ip": "142.251.65.112",
+        "rtt_ms": 13.265,
+        "geo": {
+          "lat": 37.4225,
+          "lon": -122.085,
+          "city": "Mountain View",
+          "region": "California",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "lga25s78-in-f14.1e100.net",
+        "ip": "142.251.35.174",
+        "rtt_ms": 13.328,
+        "geo": {
+          "lat": 40.7128,
+          "lon": -74.006,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Heroku",
+    "host": "www.heroku.com",
+    "category": "Cloud Providers",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 16.42,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "208.214.138.94",
+        "rtt_ms": 17.306,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "4.8.6.118",
+        "ip": "4.8.6.118",
+        "rtt_ms": 6.756,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "IBM Cloud",
+    "host": "cloud.ibm.com",
+    "category": "Cloud Providers",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 13.488,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "204.148.170.154",
+        "ip": "204.148.170.154",
+        "rtt_ms": 17.22,
+        "geo": {
+          "lat": 36.1651,
+          "lon": -115.3605,
+          "city": "Las Vegas",
+          "region": "Nevada",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "Linode",
+    "host": "www.linode.com",
+    "category": "Cloud Providers",
+    "hop_count": 8,
+    "total_rtt": 7.691,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 8.466,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae2.gw16.nyc1.alter.net",
+        "ip": "140.222.227.151",
+        "rtt_ms": 8.058,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 8.673,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "192.168.224.175",
+        "ip": "192.168.224.175",
+        "rtt_ms": 9.205,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "192.168.226.11",
+        "ip": "192.168.226.11",
+        "rtt_ms": 13.244,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "192.168.245.35",
+        "ip": "192.168.245.35",
+        "rtt_ms": 6.776,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "a23-33-42-144.deploy.static.akamaitechnologies.com",
+        "ip": "23.33.42.144",
+        "rtt_ms": 7.691,
+        "geo": {
+          "lat": 40.7126,
+          "lon": -74.0066,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Oracle Cloud",
+    "host": "cloud.oracle.com",
+    "category": "Cloud Providers",
+    "hop_count": 8,
+    "total_rtt": 15.59,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 15.801,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae2.gw16.nyc1.alter.net",
+        "ip": "140.222.227.151",
+        "rtt_ms": 8.406,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 9.037,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "a23-33-40-149.deploy.static.akamaitechnologies.com",
+        "ip": "23.33.40.149",
+        "rtt_ms": 15.59,
+        "geo": {
+          "lat": 40.7126,
+          "lon": -74.0066,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Vultr",
+    "host": "www.vultr.com",
+    "category": "Cloud Providers",
+    "hop_count": 6,
+    "total_rtt": 13.47,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 12.496,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 16.624,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.21",
+        "ip": "172.68.52.21",
+        "rtt_ms": 14.74,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.17.140.186",
+        "ip": "104.17.140.186",
+        "rtt_ms": 13.47,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg",
+    "host": "www.bloomberg.com",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 20.469,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "CBOE",
+    "host": "www.cboe.com",
+    "category": "NYSE & Financial",
+    "hop_count": 6,
+    "total_rtt": 18.258,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 15.241,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 14.691,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.15",
+        "ip": "172.68.52.15",
+        "rtt_ms": 15.012,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.19.184.30",
+        "ip": "104.19.184.30",
+        "rtt_ms": 18.258,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "CME Group",
+    "host": "www.cmegroup.com",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 7.999,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae1.gw16.nyc1.alter.net",
+        "ip": "140.222.227.35",
+        "rtt_ms": 8.133,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 7.766,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "192.168.234.169",
+        "ip": "192.168.234.169",
+        "rtt_ms": 11.652,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "192.168.194.159",
+        "ip": "192.168.194.159",
+        "rtt_ms": 7.986,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "DTCC",
+    "host": "www.dtcc.com",
+    "category": "NYSE & Financial",
+    "hop_count": 6,
+    "total_rtt": 14.825,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 13.754,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 16.794,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.21",
+        "ip": "172.68.52.21",
+        "rtt_ms": 14.376,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "172.66.150.93",
+        "ip": "172.66.150.93",
+        "rtt_ms": 14.825,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "FINRA",
+    "host": "www.finra.org",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 15.423,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 23.37,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.15",
+        "ip": "172.68.52.15",
+        "rtt_ms": 16.961,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "ICE (NYSE Parent)",
+    "host": "www.theice.com",
+    "category": "NYSE & Financial",
+    "hop_count": 6,
+    "total_rtt": 13.485,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 12.818,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.15",
+        "ip": "172.68.52.15",
+        "rtt_ms": 21.151,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.17.99.236",
+        "ip": "104.17.99.236",
+        "rtt_ms": 13.485,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "NASDAQ",
+    "host": "www.nasdaq.com",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 11.742,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae1.gw16.nyc1.alter.net",
+        "ip": "140.222.227.35",
+        "rtt_ms": 10.452,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 10.43,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "192.168.224.15",
+        "ip": "192.168.224.15",
+        "rtt_ms": 9.221,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "192.168.241.169",
+        "ip": "192.168.241.169",
+        "rtt_ms": 11.819,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "192.168.195.31",
+        "ip": "192.168.195.31",
+        "rtt_ms": 10.528,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "NYSE",
+    "host": "www.nyse.com",
+    "category": "NYSE & Financial",
+    "hop_count": 6,
+    "total_rtt": 15.131,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 16.749,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "customer.alter.net",
+        "ip": "152.193.179.74",
+        "rtt_ms": 16.703,
+        "geo": {
+          "lat": 42.3601,
+          "lon": -71.0589,
+          "city": "Boston",
+          "region": "Massachusetts",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "172.68.52.21",
+        "ip": "172.68.52.21",
+        "rtt_ms": 14.348,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "104.16.90.8",
+        "ip": "104.16.90.8",
+        "rtt_ms": 15.131,
+        "geo": {
+          "lat": 43.6532,
+          "lon": -79.3832,
+          "city": "Toronto",
+          "region": "Ontario",
+          "country": "Canada",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Refinitiv/LSEG",
+    "host": "www.lseg.com",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 15.617,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 5,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  },
+  {
+    "name": "SEC",
+    "host": "www.sec.gov",
+    "category": "NYSE & Financial",
+    "hop_count": 19,
+    "total_rtt": null,
+    "hops": [
+      {
+        "hop": 2,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 3,
+        "host": "hop-3.local",
+        "ip": "10.0.0.3",
+        "rtt_ms": 15.601,
+        "geo": null
+      },
+      {
+        "hop": 4,
+        "host": "0.ae1.gw16.nyc1.alter.net",
+        "ip": "140.222.227.35",
+        "rtt_ms": 7.981,
+        "geo": {
+          "lat": 41.0267,
+          "lon": -73.7154,
+          "city": "Harrison",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 5,
+        "host": "alter.net.customer.alter.net",
+        "ip": "204.148.18.58",
+        "rtt_ms": 10.967,
+        "geo": {
+          "lat": 40.7157,
+          "lon": -74,
+          "city": "New York",
+          "region": "New York",
+          "country": "United States",
+          "isp": "",
+          "org": "",
+          "as": ""
+        }
+      },
+      {
+        "hop": 6,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 7,
+        "host": "192.168.226.43",
+        "ip": "192.168.226.43",
+        "rtt_ms": 15.516,
+        "geo": null
+      },
+      {
+        "hop": 8,
+        "host": "192.168.194.159",
+        "ip": "192.168.194.159",
+        "rtt_ms": 10.375,
+        "geo": null
+      },
+      {
+        "hop": 9,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 10,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 11,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 12,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 13,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 14,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 15,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 16,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 17,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 18,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 19,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      },
+      {
+        "hop": 20,
+        "host": "*",
+        "ip": null,
+        "rtt_ms": null,
+        "geo": null
+      }
+    ]
+  }
+]

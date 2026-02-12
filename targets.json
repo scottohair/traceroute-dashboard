@@ -1,0 +1,38 @@
+{
+  "Quant APIs": [
+    {"name": "Alpaca", "host": "api.alpaca.markets"},
+    {"name": "Polygon.io", "host": "api.polygon.io"},
+    {"name": "Twelve Data", "host": "api.twelvedata.com"},
+    {"name": "IEX Cloud", "host": "cloud.iexapis.com"},
+    {"name": "Nasdaq Data Link", "host": "data.nasdaq.com"},
+    {"name": "Tiingo", "host": "api.tiingo.com"},
+    {"name": "Tradier", "host": "api.tradier.com"},
+    {"name": "Intrinio", "host": "api-v2.intrinio.com"},
+    {"name": "QuantConnect", "host": "www.quantconnect.com"},
+    {"name": "Alpha Vantage", "host": "www.alphavantage.co"}
+  ],
+  "Cloud Providers": [
+    {"name": "AWS", "host": "aws.amazon.com"},
+    {"name": "Google Cloud", "host": "cloud.google.com"},
+    {"name": "Azure", "host": "azure.microsoft.com"},
+    {"name": "Oracle Cloud", "host": "cloud.oracle.com"},
+    {"name": "IBM Cloud", "host": "cloud.ibm.com"},
+    {"name": "DigitalOcean", "host": "www.digitalocean.com"},
+    {"name": "Linode", "host": "www.linode.com"},
+    {"name": "Vultr", "host": "www.vultr.com"},
+    {"name": "Cloudflare", "host": "www.cloudflare.com"},
+    {"name": "Heroku", "host": "www.heroku.com"}
+  ],
+  "NYSE & Financial": [
+    {"name": "NYSE", "host": "www.nyse.com"},
+    {"name": "Bloomberg", "host": "www.bloomberg.com"},
+    {"name": "ICE (NYSE Parent)", "host": "www.theice.com"},
+    {"name": "NASDAQ", "host": "www.nasdaq.com"},
+    {"name": "CBOE", "host": "www.cboe.com"},
+    {"name": "CME Group", "host": "www.cmegroup.com"},
+    {"name": "DTCC", "host": "www.dtcc.com"},
+    {"name": "FINRA", "host": "www.finra.org"},
+    {"name": "SEC", "host": "www.sec.gov"},
+    {"name": "Refinitiv/LSEG", "host": "www.lseg.com"}
+  ]
+}
